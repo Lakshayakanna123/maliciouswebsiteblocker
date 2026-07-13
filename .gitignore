@@ -1,0 +1,10 @@
+# Local configuration/secrets
+.env
+
+# Python build artifacts
+__pycache__/
+*.pyc
+
+# IDE configurations
+.idea/
+.vscode/
